@@ -1,5 +1,5 @@
 {
-  "name": "core-data",
+  "name": "@nexbit.io/core-data",
   "version": "1.0.2",
   "description": "data structure lib for nPro",
   "main": "index.js",
@@ -7,5 +7,19 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "NEXBIT.IO",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nexbitio/core-data.git"
+  },
+  "keywords": [
+    "peatio",
+    "crypto",
+    "bitcoin",
+    "ethereum"
+  ],
+  "bugs": {
+    "url": "https://github.com/nexbitio/core-data/issues"
+  },
+  "homepage": "https://github.com/nexbitio/core-data#readme"
 }
